@@ -32,6 +32,6 @@ This project is a machine learning application for detecting fraudulent financia
 
 ---
 
-## References  to download Dataset
 
+## References to download Dataset
 [1] [https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset# Image_caption_project](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
